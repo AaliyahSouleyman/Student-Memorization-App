@@ -6,7 +6,7 @@ The project was created for a previous professor who struggled to memorize the n
 
 **Link to project demo:** https://streamable.com/fp9mxp
 
-git 
+ 
 
 ## How It's Made:
 
@@ -28,6 +28,6 @@ This project was built using React Native and was my introduction to the framewo
 ## URL of prototype (deliverable)
 
 
-[edit this in the readme.me](https://www.figma.com/proto/Ek1SdohxiapcMmYsI4hOA5/475-App-Prototype-Version-1?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)]
+[Figma Prototype](https://www.figma.com/proto/Ek1SdohxiapcMmYsI4hOA5/475-App-Prototype-Version-1?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)]
 
 
