@@ -13,7 +13,7 @@ The project was created for a previous professor who struggled to memorize the n
 **Tech used:** JavaScript, React Native
 
 
-This project was built using React Native and was my introduction to the framework. Deliverables for this project included figma wireframes and a working prototype. The react-navigation module is used to allow the user to choose between the different sections of the application such as the home screen where my professor can choose a course and section to memorize, a game section where he can actually play the game, an intitial log in screen, and an account section where he can see his account information. UseState was used to keep track of user score to display at the end of each game.
+This project was built using React Native and was my introduction to the framework. Deliverables for this project included figma wireframes and a working prototype. The react-navigation module is used to allow the user to choose between the different sections of the application such as the home screen where my professor can choose a university course roster to memorize, a game section where he can work through games to build his memory, an intitial log in screen, and an account section where he can see his account information. UseState was used to keep track of user score to display at the end of each game.
 
 
 ## Lessons Learned:
@@ -28,6 +28,6 @@ This project was built using React Native and was my introduction to the framewo
 ## URL of prototype (deliverable)
 
 
-[Figma Prototype](https://www.figma.com/proto/Ek1SdohxiapcMmYsI4hOA5/475-App-Prototype-Version-1?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)]
+[Figma Prototype](https://www.figma.com/proto/Ek1SdohxiapcMmYsI4hOA5/475-App-Prototype-Version-1?node-id=1-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2)
 
 
