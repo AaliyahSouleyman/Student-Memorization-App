@@ -4,7 +4,7 @@
 
 The project was created for a previous professor who struggled to memorize the names and faces of his students. This prototype allows users to play a matching game to connect names and faces of popular figures.
 
-**Link to project demo:** https://streamable.com/fp9mxp
+**Link to project demo:** (https://vimeo.com/1083035221/7ace1be735?ts=0&share=copy)
 
  
 
